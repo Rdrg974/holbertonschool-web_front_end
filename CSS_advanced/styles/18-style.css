@@ -87,7 +87,7 @@ a:active {
     --nav-item-font-size: var(--tofont-size-medium);
     --nav-item-letter-spacing: 0.04rem;
     --nav-item-display: inline-block;
-    --nav-item-marginto: 0 0 3rem 0;
+    --nav-item-margin: 0 0 3rem 0;
     --nav-item-link-hover: var(--color-primary);
 }
 
@@ -133,7 +133,6 @@ h1, h2, h3, h4, h5, h6 {
   .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
   }
-  
 
   .section-body {
     padding: var(--section-body-padding);
