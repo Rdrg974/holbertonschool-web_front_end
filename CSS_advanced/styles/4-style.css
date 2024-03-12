@@ -32,7 +32,7 @@ a {
     --text-color: var(--color-black);
 
     --font-family-base: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    --font-family-title: var(--font-family-base);
+    --font-family-title: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 }
 
